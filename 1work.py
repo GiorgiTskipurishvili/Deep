@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1vtc7aNtXlWZhRnWv-5xBxv3oZPd3zN9L
 """
 
+#roca y aris 0/1, classification
 
 import pandas as pd
 import numpy as np
