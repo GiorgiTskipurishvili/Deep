@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/12jYn9wEsO_zt_lMNW-qJEsSxN7vw8l5m
 """
 
+#roca regresiaa
+
 import pandas as pd
 import numpy as np
 
